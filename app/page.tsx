@@ -298,7 +298,7 @@ export default function InventoryDashboardPage() {
             <span className="h-4 w-4 rounded-full bg-[color:var(--color-primary)] animate-pulse" />
             Mini Inventory System
           </h1>
-          
+          <p className="text-slate-400 text-sm mt-1">Jorj Project #6</p>
         </div>
         <div>
           <button
